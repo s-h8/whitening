@@ -144,6 +144,7 @@ img {
 
 .bg {
     display: flex;
+    margin-top: 50px;
 }
 
 .img {
@@ -152,5 +153,62 @@ img {
 
 .work {
     display: flex;
+    margin-top: 50px;
 }
 
+/* summary */
+
+#summary .title2 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.mb-2 img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.bg2 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.bg2--text {
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* video */
+
+#video {
+    text-align: center;
+}
+
+/* text */
+
+.title--2 {
+    margin: 30px 0;
+}
+
+.slider {
+    display: flex;
+    justify-content: center;
+}
+
+#text .slider img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+.text3 p {
+    margin-top: 30px;
+}
+
+/* footer */
+
+.item3 {
+    display: flex;
+}
